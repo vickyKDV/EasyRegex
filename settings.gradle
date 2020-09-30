@@ -1,0 +1,3 @@
+include ':EasyRegex'
+include ':app'
+rootProject.name = "ExampleRegex"
